@@ -1,1 +1,1 @@
-# snucodeSSH
+Portfolio Homework. With my Facebook,Github,Reddit and Linkedin.
